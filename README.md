@@ -1,4 +1,6 @@
-## Description (English)
+English
+
+Small Bank System
 This is a simple Python command-line interface (CLI) application that allows a user to manage their bank account. The user can:
 
 - View account balance
@@ -13,9 +15,9 @@ This is a simple Python command-line interface (CLI) application that allows a u
 
 ---
 
-# 🏦 Bank Hisob Raqami Menejeri (CLI)
+O'zbekcha
 
-## Tavsif (O‘zbekcha)
+Kichik Bank Tizimi
 Bu Python dasturi foydalanuvchining bank hisobini boshqarishga xizmat qiladi. Dasturning asosiy imkoniyatlari quyidagilar:
 
 - Balansni ko‘rish
