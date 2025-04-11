@@ -33,4 +33,4 @@ Bu Python dasturi foydalanuvchining bank hisobini boshqarishga xizmat qiladi. Da
 ## ▶️ Usage (Foydalanish)
 
 ```bash
-python filename.py
+python SmallBankSystem.py
